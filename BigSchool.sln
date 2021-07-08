@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigSchool", "BigSchool\BigSchool.csproj", "{5B20FEFB-EA09-421E-9A64-7EE7047709EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B40C9FAA-A9FB-4621-861A-731FD58AE5A0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B20FEFB-EA09-421E-9A64-7EE7047709EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B20FEFB-EA09-421E-9A64-7EE7047709EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B20FEFB-EA09-421E-9A64-7EE7047709EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B20FEFB-EA09-421E-9A64-7EE7047709EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {870F58C2-6BA4-4609-B717-30704CD2DC7C}
+	EndGlobalSection
+EndGlobal
